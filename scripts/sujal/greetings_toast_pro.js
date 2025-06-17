@@ -4,6 +4,7 @@
 // description: Shows a hilarious and abusive greeting toast on Snapchat startup. Input: username dd/mm/yyyy. Avoid full names.
 // version: 1.0
 // author: Sujal
+// Fork credits: Gabriel Modz & Jacob Thomas & Jimothy
 // ==/SE_module==
 
 var config = require("config");
